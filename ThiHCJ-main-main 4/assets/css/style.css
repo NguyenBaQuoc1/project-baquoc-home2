@@ -1028,7 +1028,7 @@ img.mli_img_wrapper {
     background-position: center;
     height: 220px;
     background-repeat: no-repeat;
-    background-image: url("/assets/img/bg-car/Used-Car-Buying-Guide-Making-Sure-You-Get-a-Good-One-03.png");
+    background-image: url("./assets/img/bg-car/Used-Car-Buying-Guide-Making-Sure-You-Get-a-Good-One-03.png");
 }
 /*brand end*/
 .bg-popular{
