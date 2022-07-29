@@ -1262,7 +1262,7 @@ img.mli_img_wrapper {
 .element-title h1 , 
 .element-title h6 {
     margin-bottom: 20px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 
@@ -1318,6 +1318,7 @@ img.mli_img_wrapper {
 .slider-grid__inner {
     padding: 0px 15px;
     position: relative;
+
 }
 
 .slider-grid__btn {
@@ -1349,6 +1350,66 @@ img.mli_img_wrapper {
     /* border: 1px rgb(255, 0, 0) solid; */
     background-color: #000;
     transition: cubic-bezier(0.18, 0.89, 0.32, 1.28) 0.3s;
+}
+
+.swiper-slide img {
+    /* padding:0px 10px; */
+    height: 100%;
+    margin-bottom: 30px;
+}
+
+.container-height-50 {
+    height: 50%;
+}
+
+.slider-grid__wrap-name {
+    position: absolute;
+    bottom: 16px;
+    
+}
+
+.slider-grid__name {
+    background-color: rgba(0,0,0,.7);
+    padding: 20px 20px;
+}
+
+.auto-sale-price {
+    background-color: rgba(255, 0, 0, 0.7);
+    padding: 20px 20px;
+}
+
+.slider-grid__inner_mod-b .slider-grid__wrap-name {
+    position: absolute;
+    bottom: 6px;
+}
+
+.slider-grid__inner_mod-b .slider-grid__name {
+    padding: 10px 20px;
+}
+
+.slider-grid__inner_mod-b .auto-sale-price {
+    position: absolute;
+    padding: 6px 20px;
+    bottom: -6px;
+    right: 0px;
+    background-color: rgb(255, 0, 0);
+
+}
+
+.slider-grid__inner_mod-b .slider-grid__name {
+    position: absolute;
+    bottom: 0;
+    left: 15px;
+}
+
+.slide-grid_hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+    background-color: rgba(0, 0, 0, 0.363);
 }
 
 
