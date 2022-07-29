@@ -1,0 +1,784 @@
+<div class="element-section">
+    <!-- THINH DEM SO +SLIDER  -->
+<div class="grids wides">
+    <div class="rows">
+        <div class="cols ls-12s ms-12s cs-12s mgb-20px bg-popular">
+
+            <div class="bg1">
+                <h2>Popular Makes</h2>
+            </div>
+
+            <div class="tab">
+                <div class="tabs">
+                    <div class="tab-click active">
+                        BIM
+                    </div>
+                    <div class="tab-click">
+                        AUDI
+                    </div>
+                    <div class="tab-click">
+                        PORSCHE
+                    </div>
+                    <div class="tab-click">
+                        MERC
+                    </div>
+                    <div class="boder-buttom"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- tab 1 -->
+    <div class="grids wides ">
+        <div class="cols">
+            <div class="tab-pane active">
+                <div class="rows">
+                    <div class="slide-container9 swiper">
+                        <div class="slide-content">
+                            <div class="card-wrapper swiper-wrapper">
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">245.000 miles</div>
+                                            <div class="manual">manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">245.000 miles</div>
+                                            <div class="manual">Manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">245.000 miles</div>
+                                            <div class="manual">Manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+                                        <div class="card-image">
+                                            <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">245.000 miles</div>
+                                            <div class="manual">Manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">245.000 miles</div>
+                                            <div class="manual">Manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+                                        <div class="card-image">
+                                            <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">245.000 miles</div>
+                                            <div class="manual">Manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+                                        <div class="card-image">
+                                            <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">245.000 miles</div>
+                                            <div class="manual">Manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">245.000 miles</div>
+                                            <div class="manual">Manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">245.000 miles</div>
+                                            <div class="manual">Manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-button-next swiper-navBtn swiper-button"></div>
+                        <div class="swiper-button-prev swiper-navBtn swiper-button"></div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- tab 2 -->
+    <div class="grids wides ">
+        <div class="cols">
+            <div class="tab-pane">
+                <div class="rows">
+                    <div class="slide-container9 swiper">
+                        <div class="slide-content">
+                            <div class="card-wrapper swiper-wrapper">
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+                                        <div class="card-image">
+                                            <img src="https://media.vov.vn/sites/default/files/styles/large/public/2022-04/img-7685.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">245.000 miles</div>
+                                            <div class="manual">Manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">5</div>
+                                            <div class="manual">Manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">5</div>
+                                            <div class="manual">Manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">5</div>
+                                            <div class="manual">manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+                                        <div class="card-image">
+                                            <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">5</div>
+                                            <div class="manual">manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">5</div>
+                                            <div class="manual">manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">5</div>
+                                            <div class="manual">manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">5</div>
+                                            <div class="manual">manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card swiper-slide">
+                                    <div class="image-content">
+
+                                        <div class="card-image">
+                                            <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                 alt="" class="card-img">
+                                        </div>
+                                    </div>
+                                    <div class="card-content">
+                                        <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                        <p class="description">$23.000</p>
+                                        <div class="speed">
+                                            <div class="year">2020</div>
+                                            <div class="miles">5</div>
+                                            <div class="manual">manual</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-button-next swiper-navBtn"></div>
+                        <div class="swiper-button-prev swiper-navBtn"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- tab 3  -->
+    <div class="grids wides ">
+        <div class="tab-pane cols ">
+            <div class="rows">
+                <div class="slide-container9 swiper">
+                    <div class="slide-content">
+                        <div class="card-wrapper swiper-wrapper">
+                            <div class="card swiper-slide">
+                                <div class="image-content">
+                                    <div class="card-image">
+                                        <img src="https://giaxeoto.vn/admin/upload/images/resize/640-lamborghini-aventador-gia-bao-nhieu.jpg"
+                                             alt="" class="card-img">
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                    <p class="description">$23.000</p>
+                                    <div class="speed">
+                                        <div class="year">2020</div>
+                                        <div class="miles">5</div>
+                                        <div class="manual">manual</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card swiper-slide">
+                                <div class="image-content">
+                                    <div class="card-image">
+                                        <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                             alt="" class="card-img">
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                    <p class="description">$23.000</p>
+                                    <div class="speed">
+                                        <div class="year">2020</div>
+                                        <div class="miles">5</div>
+                                        <div class="manual">manual</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card swiper-slide">
+                                <div class="image-content">
+                                    <div class="card-image">
+                                        <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                             alt="" class="card-img">
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                    <p class="description">$23.000</p>
+                                    <div class="speed">
+                                        <div class="year">2020</div>
+                                        <div class="miles">5</div>
+                                        <div class="manual">manual</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card swiper-slide">
+                                <div class="image-content">
+                                    <div class="card-image">
+                                        <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                             alt="" class="card-img">
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                    <p class="description">$23.000</p>
+                                    <div class="speed">
+                                        <div class="year">2020</div>
+                                        <div class="miles">5</div>
+                                        <div class="manual">manual</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card swiper-slide">
+                                <div class="image-content">
+                                    <div class="card-image">
+                                        <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                             alt="" class="card-img">
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                    <p class="description">$23.000</p>
+                                    <div class="speed">
+                                        <div class="year">2020</div>
+                                        <div class="miles">5</div>
+                                        <div class="manual">manual</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card swiper-slide">
+                                <div class="image-content">
+                                    <div class="card-image">
+                                        <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                             alt="" class="card-img">
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                    <p class="description">$23.000</p>
+
+                                    <div class="speed">
+                                        <div class="year">2020</div>
+                                        <div class="miles">5</div>
+                                        <div class="manual">manual</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card swiper-slide">
+                                <div class="image-content">
+                                    <div class="card-image">
+                                        <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                             alt="" class="card-img">
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                    <p class="description">$23.000</p>
+                                    <div class="speed">
+                                        <div class="year">2020</div>
+                                        <div class="miles">5</div>
+                                        <div class="manual">manual</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card swiper-slide">
+                                <div class="image-content">
+                                    <div class="card-image">
+                                        <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                             alt="" class="card-img">
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                    <p class="description">$23.000</p>
+                                    <div class="speed">
+                                        <div class="year">2020</div>
+                                        <div class="miles">5</div>
+                                        <div class="manual">manual</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card swiper-slide">
+                                <div class="image-content">
+                                    <div class="card-image">
+                                        <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                             alt="" class="card-img">
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                    <p class="description">$23.000</p>
+
+                                    <div class="speed">
+                                        <div class="year">2020</div>
+                                        <div class="miles">5</div>
+                                        <div class="manual">manual</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-button-next swiper-navBtn"></div>
+                    <div class="swiper-button-prev swiper-navBtn"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="grids wides ">
+        <div class="cols">
+            <div class="tab-pane ">
+                <div class=" grids wides">
+                    <div class="rows">
+                        <div class="slide-container9 swiper">
+                            <div class="slide-content">
+                                <div class="card-wrapper swiper-wrapper">
+                                    <div class="card swiper-slide">
+                                        <div class="image-content">
+                                            <div class="card-image">
+                                                <img src="https://cms-i.autodaily.vn/du-lieu/2022/05/23/prop1290.jpg"
+                                                     alt="" class="card-img">
+                                            </div>
+                                        </div>
+                                        <div class="card-content">
+                                            <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                            <p class="description">$23.000</p>
+                                            <div class="speed">
+                                                <div class="year">2020</div>
+                                                <div class="miles">5</div>
+                                                <div class="manual">manual</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card swiper-slide">
+                                        <div class="image-content">
+                                            <div class="card-image">
+                                                <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                     alt="" class="card-img">
+                                            </div>
+                                        </div>
+                                        <div class="card-content">
+                                            <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                            <p class="description">$23.000</p>
+                                            <div class="speed">
+                                                <div class="year">2020</div>
+                                                <div class="miles">5</div>
+                                                <div class="manual">manual</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card swiper-slide">
+                                        <div class="image-content">
+                                            <div class="card-image">
+                                                <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                                     alt="" class="card-img">
+                                            </div>
+                                        </div>
+                                        <div class="card-content">
+                                            <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                            <p class="description">$23.000</p>
+                                            <div class="speed">
+                                                <div class="year">2020</div>
+                                                <div class="miles">5</div>
+                                                <div class="manual">manual</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card swiper-slide">
+                                        <div class="image-content">
+                                            <div class="card-image">
+                                                <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                     alt="" class="card-img">
+                                            </div>
+                                        </div>
+                                        <div class="card-content">
+                                            <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                            <p class="description">$23.000</p>
+
+                                            <div class="speed">
+                                                <div class="year">2020</div>
+                                                <div class="miles">245.000 miles</div>
+                                                <div class="manual">manual</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card swiper-slide">
+                                        <div class="image-content">
+                                            <div class="card-image">
+                                                <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                                     alt="" class="card-img">
+                                            </div>
+                                        </div>
+                                        <div class="card-content">
+                                            <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                            <p class="description">$23.000</p>
+                                            <div class="speed">
+                                                <div class="year">2020</div>
+                                                <div class="miles">245.000 miles</div>
+                                                <div class="manual">manual</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card swiper-slide">
+                                        <div class="image-content">
+                                            <div class="card-image">
+                                                <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                     alt="" class="card-img">
+                                            </div>
+                                        </div>
+                                        <div class="card-content">
+                                            <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                            <p class="description">$23.000</p>
+                                            <div class="speed">
+                                                <div class="year">2020</div>
+                                                <div class="miles">245.000 miles</div>
+                                                <div class="manual">manual</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card swiper-slide">
+                                        <div class="image-content">
+                                            <div class="card-image">
+                                                <img src="https://demo.vehica.com/wp-content/uploads/2020/02/audi1-335x186.jpg"
+                                                     alt="" class="card-img">
+                                            </div>
+                                        </div>
+                                        <div class="card-content">
+                                            <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                            <p class="description">$23.000</p>
+                                            <div class="speed">
+                                                <div class="year">2020</div>
+                                                <div class="miles">245.000 miles</div>
+                                                <div class="manual">manual</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card swiper-slide">
+                                        <div class="image-content">
+                                            <div class="card-image">
+                                                <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                     alt="" class="card-img">
+                                            </div>
+                                        </div>
+                                        <div class="card-content">
+                                            <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                            <p class="description">$23.000</p>
+
+                                            <div class="speed">
+                                                <div class="year">2020</div>
+                                                <div class="miles">245.000 miles</div>
+                                                <div class="manual">manual</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card swiper-slide">
+                                        <div class="image-content">
+
+                                            <div class="card-image">
+                                                <img src=" https://demo.vehica.com/wp-content/uploads/2020/08/6-768x600.jpg"
+                                                     alt="" class="card-img">
+                                            </div>
+                                        </div>
+                                        <div class="card-content">
+                                            <h2 class="name">BMW 8-serie 2-door coupe grey</h2>
+                                            <p class="description">$23.000</p>
+
+                                            <div class="speed">
+                                                <div class="year">2020</div>
+                                                <div class="miles">245.000 miles</div>
+                                                <div class="manual">manual</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-button-next swiper-navBtn"></div>
+                            <div class="swiper-button-prev swiper-navBtn"></div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- dem số  -->
+<div class=" grids  ">
+    <div class="rows" id="haha">
+
+        <div class="cols cs-3s ms-3s cs-6s">
+            <div class="mau">
+                <i class="fa-solid fa-car"></i>
+                <span class="num" data-val="4000">0000</span>
+                <span class="text">PASSED GRADUATES</span>
+            </div>
+        </div>
+        <div class="cols cs-3s ms-3s cs-6s">
+            <div class="mau">
+                <i class="fas fa-smile-beam"></i>
+                <span class="num" data-val="3000">0000</span>
+                <span class="text">HAPPY CUSTOMERS</span>
+            </div>
+        </div>
+        <div class="cols cs-3s ms-3s cs-6s">
+            <div class="mau">
+                <i class="fa-solid fa-globe"></i>
+                <span class="num" data-val="2000">0000</span>
+                <span class="text">COUNTRIES REACHED</span>
+            </div>
+        </div>
+        <div class="cols cs-3s ms-3s cs-6s">
+            <div class="mau">
+                <i class="fas fa-star"></i>
+                <span class="num" data-val="1000">0000</span>
+                <span class="text">QUALIFIED STAFF</span>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!-- END DEM SO  -->
