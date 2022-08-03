@@ -357,7 +357,7 @@
                                                             </div>
                                                         </a>
                                                     </a>
-                                                    <span class="slider-grid__name slider-grid__name_mod-b ">
+                                                    <span class="slider-grid__name slider-grid__name_mod-b gird_name-swap ">
                                                         AG MC Ford Raptor
                                                     </span>   
                                                 </div>
@@ -378,7 +378,7 @@
                                                             </div>
                                                         </a>
                                                     </a>
-                                                    <span class="slider-grid__name slider-grid__name_mod-b ">
+                                                    <span class="slider-grid__name slider-grid__name_mod-b gird_name-swap ">
                                                         AG MC Ford Raptor
                                                     </span>   
                                                 </div>
@@ -403,7 +403,7 @@
                                                             </div>
                                                         </a>
                                                     </a>
-                                                    <span class="slider-grid__name slider-grid__name_mod-b ">
+                                                    <span class="slider-grid__name slider-grid__name_mod-b gird_name-swap ">
                                                         AG MC Ford Raptor
                                                     </span>   
                                                 </div>
@@ -412,7 +412,7 @@
                                             <div class="col-md-6">
                                                 <div class="slider-grid__inner slider-grid__inner_mod-b">
                                                     <a href="">
-                                                        <img class="img-swap" src="/ThiHCJ-main-main 4/assets/img/sold-car/sold-5.jpeg" height="170px" alt="">
+                                                        <img class="img-swap" src="./assets/img/sold-car/2-58-1024x683.jpg" height="170px" alt="">
                                                     
                                                         <a href="">
                                                             <div class="slide-grid_hover">
@@ -424,7 +424,7 @@
                                                             </div>
                                                         </a>
                                                     </a>
-                                                    <span class="slider-grid__name slider-grid__name_mod-b ">
+                                                    <span class="slider-grid__name slider-grid__name_mod-b gird_name-swap ">
                                                         AG MC Ford Raptor
                                                     </span>   
                                                 </div>
@@ -759,8 +759,8 @@
         },
         {
             id : 3 ,
-            src : "./assets/img/sold-car/sold-3.jpeg",
-            name : "AG MC Ford Raptor" , 
+            src : "./assets/img/sold-car/2-58-1024x683.jpg",
+            name : "Ferrari LaFerrari 2" , 
         },
         {
             id : 4 ,
@@ -778,11 +778,19 @@
         document.querySelectorAll(".img-swap").forEach(function(el,index){
             el.src=listImg1[index].src
         })
+
+        document.querySelectorAll(".gird_name-swap").forEach(function(els,indexs){
+            els.innerHTML = listImg1[indexs].name
+        })
     })
 
     $(".page2").click(function(){
         document.querySelectorAll(".img-swap").forEach(function(el,index){
             el.src=listImg2[index].src
+        })
+
+        document.querySelectorAll(".gird_name-swap").forEach(function(els,indexs){
+            els.innerHTML = listImg2[indexs].name
         })
     })
 
