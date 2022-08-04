@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.js
+" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+</head>
+<style>
+    img{
+        width: 250px;
+    }
+</style>
+<body>
+    <button class="page1">Trang 1</button>
+    <button class="page2">Trang 2</button>
+    <div class="list-img">
+        <img class="a a1" src="" alt="">
+        <img class="a a2" src="" alt="">
+        <img class="a a3" src="" alt="">
+
+    </div>
+    <script>
+        listImg1 =[
+            {
+                id : 1,
+                src : "./img/10.jpg"
+            },
+            {
+                id : 2,
+                src : "./img/11.jpg"
+            },
+            {
+                id : 3,
+                src : "./img/12.jpg"
+            }
+
+        ]
+        listImg2 =[
+            {
+                id : 1,
+                src : "./img/13.jpg"
+            },
+            {
+                id : 2,
+                src : "./img/14.jpg"
+            },
+            {
+                id : 3,
+                src : "./img/15.jpg"
+            }
+
+        ]
+        document.querySelectorAll(".a").forEach((el,index)=>{
+                el.src = listImg1[index].src
+        })
+
+        $(".page1").click(function(){
+            document.querySelectorAll(".a").forEach((el,index)=>{
+                el.src = listImg1[index].src
+            })
+        })
+        $(".page2").click(function(){
+            document.querySelectorAll(".a").forEach((el,index)=>{
+                el.src = listImg2[index].src
+            })
+        })
+        
+    </script>
+</body>
+</html>

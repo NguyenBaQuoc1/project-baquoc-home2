@@ -1248,7 +1248,7 @@ img.mli_img_wrapper {
     max-width: 1140px;
     height: 100%;
     margin: 0 auto;
-    background-color: #ccc;
+    /* background-color: #ccc; */
 }
 
 .elementor-column {
