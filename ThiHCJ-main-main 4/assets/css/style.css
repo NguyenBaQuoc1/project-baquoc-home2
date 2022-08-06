@@ -1475,13 +1475,18 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
 
 
 /* -----TYPE OF -----  */
-.bg-typeofvehicles {
+.bg-typeof {
     background-color: #000;
-    width: 1024px;
+   
 }
 
-.laster-title .title-type {
+.title-typeof{
     color: #fff;
+    margin-left: 0px !important;
+}
+
+.center-title {
+    text-align: center;
 }
 
 .elementor-column .title-center {
@@ -1490,4 +1495,10 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
 
 .displaynone {
     display: none !important;
+}
+
+.elementor-widget-wrap {
+    width: 100%;
+    height: 500px;
+    background-color: #fff;
 }
