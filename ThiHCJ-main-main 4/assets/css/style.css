@@ -1575,3 +1575,12 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
     margin-left: 10px;
     display: block;
 }
+
+/* ---message----  */
+.bg-message {
+    background-color:  #fff;
+}
+
+.backgroud-message {
+
+}
