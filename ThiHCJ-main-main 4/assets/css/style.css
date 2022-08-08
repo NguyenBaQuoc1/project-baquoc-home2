@@ -1257,6 +1257,10 @@ img.mli_img_wrapper {
     width: 100%;
 }
 
+.element-title {
+    margin: 50px 0px;
+}
+
 .element-title h1 {
     font-weight: 600;
 }
@@ -1563,7 +1567,7 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
 .decor-1 ,
 .decor-1:after {
     width: 30px;
-    border-top: 1px solid rgb(255, 255, 255);
+    border-top: 1px solid #ccc;
 }
 
 .decor-1 {
@@ -1673,7 +1677,39 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
 
 
 /* -----  */
+.owl_style_q{
+    
+}
 
-.slide-style{
-    height: 340px !important;
+.reviews {
+    padding: 20px 20px 35px 50px;
+}
+
+.reviews-title {
+    text-transform: uppercase;
+}
+
+.decor_left {
+    
+    float: left;
+    margin-left: 5px;
+}
+
+
+
+.reviews-title{
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.item {
+    background-color: #fff;
+    position: relative;
+}
+
+.reviews_text_about{
+    font-size: 12px;
+    justify-content: center;
+    margin: 35px 0px;
 }
