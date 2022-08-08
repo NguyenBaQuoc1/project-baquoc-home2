@@ -1670,3 +1670,10 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
     background-color: rgb(87, 87, 87);
     transition: ease 0.3s;
 }
+
+
+/* -----  */
+
+.slide-style{
+    height: 340px !important;
+}
